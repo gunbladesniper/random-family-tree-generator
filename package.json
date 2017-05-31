@@ -1,0 +1,16 @@
+{
+  "name": "random-family-tree-generator",
+  "version": "1.0.0",
+  "description": "random family tree generator",
+  "main": "index.js",
+  "repository": "https://github.com/gunbladesniper/random-family-tree-generator.git",
+  "author": "Savaughn Jones <savaughnjones@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start-nodemon": "nodemon server/server.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "express": "^4.15.3"
+  }
+}
